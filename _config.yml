@@ -1,11 +1,11 @@
 # Site settings
-name: Slim Pickins Jekyll Theme
-email: 
-author: Chrisanthropic
+name: sunshine
+email: wulinxia2013@gmail.com
+author: 之放
 
 keywords: jekyll, jekyll theme, jekyll framework, stuffthings
-description: > # this means to ignore newlines until "baseurl:"
-  Witty description here.
+description: > Had I not seen the sun
+  Witty descriptioheren .
 
 baseurl: /slim-pickins-jekyll-theme
 url: https://chrisanthropic.github.io
